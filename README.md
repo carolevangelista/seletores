@@ -1,0 +1,2 @@
+# seletores
+Tarefa 7
